@@ -1,0 +1,152 @@
+2019-03-13 18:43:39,918 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:39,918 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:43:40,234 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:40,234 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:43:40,517 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:40,517 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:43:41,467 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:41,468 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:43:41,773 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:41,773 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:43:42,073 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:43:42,073 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:18,611 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:18,611 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:18,927 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:18,928 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:19,216 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:19,216 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:19,925 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:19,925 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:20,230 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:20,230 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:20,532 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:20,532 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:53,201 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:53,201 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:53,530 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:53,531 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:53,849 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:53,849 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:44:54,547 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:54,547 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:54,842 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:54,842 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:44:55,180 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:44:55,180 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:14,000 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:14,000 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:14,285 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:14,286 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:14,597 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:14,598 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:15,423 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:15,424 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:15,732 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:15,732 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:16,026 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:45:16,027 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:42,010 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:42,010 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:42,313 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:42,314 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:42,606 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:42,606 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:45:43,507 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:43,507 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:43,812 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:43,813 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:45:44,103 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:45:44,104 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:46:17,876 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:17,878 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:46:18,189 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:18,189 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:46:18,496 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:18,497 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:46:19,151 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:19,151 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:46:19,456 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:19,456 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:46:19,749 - __main__ - ERROR - 'NoneType' object does not support item assignment
+2019-03-13 18:46:19,749 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:01,506 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:01,507 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:01,880 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:01,880 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:02,165 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:02,165 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:03,071 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:03,071 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:03,354 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:03,354 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:03,661 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:03,661 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:17,289 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:17,291 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:17,576 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:17,576 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:17,889 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:17,889 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:18,660 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:18,660 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:18,975 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:18,975 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:19,261 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:19,261 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:41,767 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:41,768 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:42,064 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:42,064 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:42,357 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:42,357 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:47:43,140 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:43,140 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:43,415 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:43,415 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:47:43,734 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:47:43,735 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:48:38,401 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:38,402 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:48:38,724 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:38,724 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:48:39,011 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:39,011 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 18:48:39,907 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:39,907 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:48:40,201 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:40,201 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 18:48:40,507 - __main__ - ERROR - 'NoneType' object is not subscriptable
+2019-03-13 18:48:40,507 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:11:36,841 - __main__ - ERROR - 'one'
+2019-03-13 19:11:36,843 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:11:37,667 - __main__ - ERROR - 'one'
+2019-03-13 19:11:37,667 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:11:38,763 - __main__ - ERROR - 'one'
+2019-03-13 19:11:38,763 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:11:40,301 - __main__ - ERROR - 'one'
+2019-03-13 19:11:40,302 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:11:41,568 - __main__ - ERROR - 'one'
+2019-03-13 19:11:41,569 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:11:42,596 - __main__ - ERROR - 'one'
+2019-03-13 19:11:42,596 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:12:51,712 - __main__ - ERROR - 'one'
+2019-03-13 19:12:51,714 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:12:53,298 - __main__ - ERROR - 'one'
+2019-03-13 19:12:53,298 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:13:18,229 - __main__ - ERROR - 'one'
+2019-03-13 19:13:18,229 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:13:19,424 - __main__ - ERROR - 'one'
+2019-03-13 19:13:19,425 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:14:19,885 - __main__ - ERROR - save_json() missing 1 required positional argument: 'json_data'
+2019-03-13 19:14:19,885 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:14:22,134 - __main__ - ERROR - save_json() missing 1 required positional argument: 'json_data'
+2019-03-13 19:14:22,136 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:14:46,473 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:15:17,266 - __main__ - ERROR - https://www.lagou.com/zhaopin/Java/
+2019-03-13 19:15:18,547 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:15:58,811 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:17:53,941 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:21:54,481 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:24:02,553 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
+2019-03-13 19:24:28,458 - __main__ - ERROR - https://www.lagou.com/zhaopin/C%2B%2B/
